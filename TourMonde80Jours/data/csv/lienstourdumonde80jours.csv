@@ -1,0 +1,9 @@
+source,target,label,way,time
+001v,002v,Direct,Chemin de fer et paquebot,7
+002v,003v,Direct,Paquebot,13
+003v,004v,Direct,Chemin de fer et elephant,3
+004v,005v,Direct,Paquebot,13
+005v,006v,Direct,Paquebot,6
+006v,007v,Direct,Paquebot,22
+007v,008v,Direct,Chemin de fer et sloop,7
+008v,001v,Direct,Chemin de fer et paquebot,9
